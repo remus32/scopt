@@ -13,5 +13,5 @@ ivyXML :=
 addSbtPlugin("org.scala-js" % "sbt-scalajs" % "0.6.15")
 addSbtPlugin("org.scala-native" % "sbt-crossproject"         % "0.1.0")
 addSbtPlugin("org.scala-native" % "sbt-scalajs-crossproject" % "0.1.0")
-addSbtPlugin("org.scala-native" % "sbt-scala-native"         % "0.4.0-SNAPSHOT")
+addSbtPlugin("org.scala-native" % "sbt-scala-native"         % "0.3.0")
 addSbtPlugin("com.jsuereth" % "sbt-pgp" % "1.1.0-M1")
